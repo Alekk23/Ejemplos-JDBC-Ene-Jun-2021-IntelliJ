@@ -12,9 +12,9 @@ Si así lo desea, puede crear una copia local de este repositorio, pero para que
 
 4. En una consola de Git Bash en Windows (o en una terminal en Linux o Mac), cree una carpeta donde quiera que se contengan sus prácticas del semestre (si es que aún no la has creado) y colócate en tal carpeta. La carpeta la puedes crear desde el Git Bash o terminal Linux/Mac usando el comando `mkdir` (o con el explorador de archivos de su sistema operativo) y en la consola de Git Bash o terminal de Linux/Mac te puedes cambiar a la carpeta mencionada usando el comando `cd`
 
-5. Clone el repositorio privado dando el comando `git clone URL ejemplosjdbc`
+5. Clone el repositorio privado dando el comando `git clone URL ejemplosjdbcidea`
    (donde **URL** es el URL que copió en el paso 3)\
-   Este comando creará dentro de la carpeta creada en el paso 4) una subcarpeta de nombre **ejemplosjdbc** donde estará una copia local de su repositorio remoto.\
+   Este comando creará dentro de la carpeta creada en el paso 4) una subcarpeta de nombre **ejemplosjdbcidea** donde estará una copia local de su repositorio remoto.\
 
 ## EjemploJDBC.java
 
